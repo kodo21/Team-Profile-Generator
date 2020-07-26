@@ -6,8 +6,9 @@ bin-release/
 
 # Other files and folders
 .settings/
-
-# Executables
+.DS_Store
+node_modules/
+sketchpad.txt# Executables
 *.swf
 *.air
 *.ipa
